@@ -4,6 +4,15 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 
 ---
 
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/overview-pages-2.png" alt="overview-pages-2"/> Key Concepts Covered
+
+- How to set up a Redux store
+- Dispatching actions and updating state
+- Using selectors to access state
+- Connecting Redux to React components
+
+---
+
 ## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/features-list.png" alt="features-list"/> Features
 
 - Add new todos
@@ -11,15 +20,6 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 - Filter todos by status (All, Active, Completed)
 - Filter by Color
 - Delete todos
-
----
-
-## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/overview-pages-2.png" alt="overview-pages-2"/> Key Concepts Covered
-
-- How to set up a Redux store
-- Dispatching actions and updating state
-- Using selectors to access state
-- Connecting Redux to React components
 
 ---
 
