@@ -1,10 +1,10 @@
-# 📝 Redux Fundamentals Example – Todo List
+# Redux Fundamentals Example – Todo List
 
 This project is a simple **Todo List** app built to demonstrate the core concepts of **Redux**. It's designed for beginners who want to understand how Redux works with state management in a React application.
 
 ---
 
-## 🚀 Features
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/features-list.png" alt="features-list"/> Features
 
 - Add new todos
 - Toggle todo completion
@@ -14,7 +14,7 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 
 ---
 
-## 📌 Key Concepts Covered
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/overview-pages-2.png" alt="overview-pages-2"/> Key Concepts Covered
 
 - How to set up a Redux store
 - Dispatching actions and updating state
@@ -23,7 +23,7 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 
 ---
 
-## 🛠 Technologies Used
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/motherboard.png" alt="motherboard"/> Technologies Used
 
 - **React**
 - **Redux**
@@ -32,7 +32,7 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 
 ---
 
-## ⚙️ Installation
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/maintenance--v1.png" alt="maintenance--v1"/> Installation
 
 1. **Clone the repo:**
 
@@ -56,7 +56,7 @@ This project is a simple **Todo List** app built to demonstrate the core concept
 
 ---
 
-## 📸 Preview
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/file-preview.png" alt="file-preview"/> Preview
 
 ![Todo List Screenshot](images/todolist.png)
 
